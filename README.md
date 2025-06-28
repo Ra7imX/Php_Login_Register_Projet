@@ -16,7 +16,7 @@ To set up this project, follow these steps:
 
 1.  **Clone the repository (or extract the project files):**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Ra7imX/Php_Login_Register_Projet.git
     # or extract the provided zip/tar file
     ```
 
@@ -37,6 +37,7 @@ To set up this project, follow these steps:
 . (project root)
 ├── database/
 │   └── database.sql
+├── README.md
 ├── public/
 │   ├── css/
 │   │   ├── style.css
